@@ -1,6 +1,5 @@
 {
   "compilerOptions": {
-    /* File layout */
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
